@@ -1,0 +1,24 @@
+img{
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+    box-sizing: border-box;
+    border-radius: 80%;
+    box-shadow: 0 30px 100px rgb(208, 255, 0); 
+}
+p{
+    font-size: 15px;
+}
+body{
+    background-color: gray;
+}
+.card{
+    background-color: aqua;
+    border: 4px solid black;
+    margin-left: 400px;
+    margin-top: 40px;
+    margin-right: 300px;
+    box-sizing: border-box;
+    border-radius: 30%;
+    box-shadow: 10px 30px 100px orange; 
+}
